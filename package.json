@@ -1,0 +1,16 @@
+{
+  "name": "kevin",
+  "version": "1.0.0",
+  "description": "a bot to manage the official TKC discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dazon",
+  "license": "ISC",
+  "dependencies": {
+    "compromise": "^13.1.1",
+    "compromise-sentences": "0.0.5",
+    "discord.js": "^12.0.2"
+  }
+}
